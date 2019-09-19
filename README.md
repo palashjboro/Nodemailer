@@ -1,7 +1,7 @@
 # nodemailer
 Send Email To Others From Your Node.js App
 
-- Please add your own SMTP info for it to work
+Please add your own SMTP info for it to work
 
 ### Version
 
