@@ -7,13 +7,13 @@ Please add your own SMTP info for it to work
 
 1.0.0
 
-## Install Dependencies
+### Install Dependencies
 
 ```bash
 npm install 
 ```
 
-## Run
+### Run
 
 ```bash
 node app
