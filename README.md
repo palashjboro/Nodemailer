@@ -34,4 +34,4 @@ node app
 
 If you are using a local server set tls: {rejectUnauthorized: false}
 
-## Thankyou
+## Thank You
