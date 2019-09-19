@@ -10,7 +10,12 @@ Please add your own SMTP info for it to work
 ### Install Dependencies
 
 ```bash
-npm install 
+npm init –y 
+```
+### Install Express
+
+```bash
+npm install express –save
 ```
 
 ### Run
