@@ -29,7 +29,7 @@ npm install express –save
 ### Run
 
 ```bash
-node app
+node app.js
 ```
 
 If you are using a local server set tls: {rejectUnauthorized: false}
